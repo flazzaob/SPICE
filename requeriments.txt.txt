@@ -1,2 +1,3 @@
 sympy==1.6.2
 matplotlib==3.3.3
+ahkab==0.18
